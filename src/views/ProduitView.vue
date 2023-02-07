@@ -114,7 +114,7 @@ th {
 th {
   padding-top: 12px;
   padding-bottom: 12px;
-  text-align: left;
+  text-align: justify;
   background-color: #232623;
   color: rgb(255, 255, 255);
 }
